@@ -44,7 +44,7 @@ Save this file as config.env
 Install my-project with npm
 
 ```bash
-  cd my-project
+  cd gramoday_backend
   npm Install --- for node module Installation in current directory
   type "node app.js" in terminal
   
